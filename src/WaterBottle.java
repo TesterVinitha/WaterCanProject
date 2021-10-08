@@ -1,14 +1,14 @@
 
 public class WaterBottle {
 
-	public static void name() {
+	public static void price() {
 
-		System.out.println("name");
+		System.out.println("price");
 	}
 
 	public static void main(String[] args) {
 
-		name();
+		price();
 	}
 
 }
